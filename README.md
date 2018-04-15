@@ -1,6 +1,6 @@
-# vue-simple-app2
+# vue-cli
 
-> A simple test vue app
+> A Vue.js project
 
 ## Build Setup
 
